@@ -1,5 +1,5 @@
 {
-    "name": "pvsaintpe/bitaps",
+    "name": "forex-formula/bitaps",
     "description": "Component for BitAps",
     "keywords": [
         "bitaps",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Veselov Pavel",
-            "email": "pvsaintpe@mail.ru"
+            "name": "Veselov Pavel 2",
+            "email": "pvsaintpe@icloud.com"
         }
     ],
     "require": {
